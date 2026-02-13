@@ -82,6 +82,6 @@ This portfolio documents my hands-on learning journey at Data Science Academy an
 
 ---
 
-👤 Author: Umud Quliyev  
+👤 Author: Vasif Asadov  
 🎓 Data Science Academy  
 📅 2025
