@@ -1,84 +1,79 @@
-# 📊 Tableau Projects Portfolio
-## Data Science Academy – Practical Analytics Journey
+# 📊 Data Science Academy – Homework Portfolio
 
-During my training at Data Science Academy, I developed multiple hands-on Tableau projects focusing on real-world business analytics, data visualization principles, and dashboard storytelling.
+This repository contains all homework assignments completed during my training at Data Science Academy.  
 
-This repository contains my weekly homework assignments, case studies, and final Tableau projects completed throughout the program.
-
----
-
-## 🚀 About My Training
-
-Throughout my education at Data Science Academy, I gained strong practical experience in:
-
-- Data Visualization Principles
-- Business Intelligence Concepts
-- Dashboard Design & UX Logic
-- KPI Tracking & Performance Monitoring
-- Data Storytelling
-- Analytical Thinking
-
-The training was highly practice-oriented, requiring weekly submissions and real-world scenario analysis.
+The projects are divided into two main areas: **Python-based data analysis & machine learning tasks** and **Tableau business intelligence dashboards**.
 
 ---
 
-## 📂 Repository Structure
+## 🐍 Python Projects
 
-This repository includes:
+The Python folder includes hands-on analytical tasks covering:
 
-- 📁 Weekly Tableau Homework Assignments
-- 📁 Case Study Dashboards
-- 📁 Final Project Dashboard
-- 📄 Theoretical Assessment & Concepts
+- Core Python Programming
+- NumPy & Data Manipulation
+- Regular Expressions (RegEx)
+- Data Cleaning & Processing
+- Exploratory Data Analysis (EDA)
+- Classification Algorithms
+- Machine Learning Fundamentals
+- Real-world Dataset Analysis (e.g., Heart Disease Prediction)
 
-Each project demonstrates progressive improvement in:
+### Key Projects Include:
 
-- Visual clarity
-- Design consistency
-- Data accuracy
-- Insight generation
-- Executive-level reporting
+- Heart Disease Prediction Model
+- Classification Algorithm Implementation
+- Midterm Analytical Assessment
+- Weekly Data Processing Assignments
+- NumPy & RegEx Practice Tasks
+
+### Skills Demonstrated:
+
+✔ Data preprocessing & cleaning  
+✔ Feature handling  
+✔ Model building (classification)  
+✔ Analytical problem solving  
+✔ Writing structured and readable Python code  
+
+---
+
+## 📊 Tableau Projects
+
+The Tableau folder includes dashboard-based analytical assignments focused on business intelligence concepts.
+
+Projects include:
+
+- KPI Tracking Dashboards
+- Sales & Performance Analysis
+- Interactive Filtering & Parameter Design
+- Business Case-Based Visualizations
+
+### Skills Demonstrated:
+
+✔ Executive dashboard design  
+✔ KPI framework development  
+✔ Data storytelling  
+✔ Interactive reporting  
+✔ Visual clarity & best practices  
 
 ---
 
 ## 🛠 Tools & Technologies Used
 
-- Tableau Desktop
-- Data Blending
-- Calculated Fields
-- Parameters & Filters
-- Interactive Dashboards
-- KPI Design
-- Advanced Charts (Bar, Line, Maps, Scatter, Dual Axis)
+- Python  
+- NumPy  
+- Pandas  
+- Matplotlib  
+- Scikit-learn  
+- Tableau Desktop  
 
 ---
 
-## 📈 Key Skills Demonstrated
+## 🎯 Purpose of This Repository
 
-✔ Business Problem Understanding  
-✔ Data Cleaning & Preparation  
-✔ Visual Optimization  
-✔ Performance Analysis  
-✔ Strategic Dashboard Design  
-✔ Data-Driven Decision Support  
+This repository reflects my practical development in Data Analytics and Business Intelligence during my Data Science Academy training.
 
----
-
-## 🎯 Final Project Focus
-
-The final Tableau project was designed to:
-
-- Analyze key business metrics
-- Identify performance trends
-- Highlight revenue drivers
-- Provide interactive filtering capabilities
-- Deliver executive-ready insights
-
----
-
-## 💡 Purpose of This Repository
-
-This portfolio documents my hands-on learning journey at Data Science Academy and showcases my ability to transform raw data into meaningful business insights using Tableau.
+It demonstrates both technical implementation (Python & Machine Learning) and business-focused visualization (Tableau).
 
 ---
 
